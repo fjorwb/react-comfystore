@@ -103,7 +103,7 @@ const CheckoutForm = () => {
 						Your total is {formatPrice(total_amount)}
 					</p>
 					<p style={{ fontSize: '1.65rem', fontWeight: '200' }}>
-						Test Card Number:{'378282246310005'}
+						Test Card Number:{'  '}
 						<span style={{ fontWeight: '400', background: 'yellow' }}>
 							4242 4242 4242 4242
 						</span>{' '}
